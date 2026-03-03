@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Project data (keep local; do not push)
+data/
+holistic/
+
+# Large tab-delimited datasets
+*.tab
+
+# Data (uncomment if raw data should not be committed)
+# data/raw/*.csv
+# data/raw/*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*~
+
+# Documents (keep local)
+*.pdf
+*.docx
+
+# Outputs (optional: keep small outputs, ignore large ones)
+# outputs/models/
+# outputs/figures/
+
+# Secrets
+*.pem
+.env.local
+.env.*.local

@@ -1,6 +1,6 @@
 # Forecasting Economic Mobility & Mental Empowerment for Foster Youth Girls
 
-**Authors:** Chukwulenyeudo Uwaeme, Oluwajomiloju King, Obaloluwa Wojuade  
+**Authors:** Oba
 **Term:** Spring 2025
 
 ## Overview
@@ -61,6 +61,4 @@ ur2phd/
 
 - Rosholm et al. (2024). Predictive risk modeling for child maltreatment detection and enhanced decision-making: Evidence from Danish administrative data. *PLOS ONE*, 19(7):e0305974.
 
-## License
 
-*(Add your preferred license when ready.)*
